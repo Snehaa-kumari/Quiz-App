@@ -248,9 +248,6 @@
     padding: 12px 20px;
   }
   
-  /* -----------------------------------------
-     ✅ Responsive Styles
-  ------------------------------------------ */
   @media (max-width: 480px) {
     .config-container,
     .quiz-container,
